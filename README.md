@@ -1,8 +1,9 @@
 # PowerBI_Sales-Analysis
+
 A sales record data set in csv format was downloaded. The data set consist of 14 columns and 10,000 rows. below are the columns:
 
--Region of Sales.
--Country of Sales.
+-Region of Sales
+-Country of Sales
 -ItemType
 -Sales Channel
 -Order  Price
